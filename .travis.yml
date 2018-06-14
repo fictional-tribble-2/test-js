@@ -1,0 +1,7 @@
+# Use Dockerized infrastructure
+sudo: false
+
+# Use node_js environment
+language: node_js
+node_js:
+  - '10'
