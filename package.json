@@ -4,7 +4,7 @@
   "description": "A repository with the vulnerabilities we should find",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "echo 'yay'"
   },
   "author": "Andreas Tiefenthaler <@pxlpnk>",
   "license": "ISC",
