@@ -6,4 +6,4 @@ require('./current_file').file(__filename);
 */
 
 var id = 10;
-var query = 'SELECT * from user where id=' + id + ';'
+var query = 'SELECT * from user where id=' + req.body.login + ';'
