@@ -5,3 +5,4 @@ const handleBars = require('./src/GR0004')
 const bufferAlloc = require('./src/GR0005');
 const bufferNew = require('./src/GR0006')
 const sqli = require('./src/GR0007')
+const eval = require('./src/GR0008')
