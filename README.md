@@ -1,6 +1,6 @@
 # A repository with the vulnerabilities we should find for JavaScript
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/test-js.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/test-js.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/test-js.svg)](https://www.guardrails.io)
 
 ## Dependencies
 
